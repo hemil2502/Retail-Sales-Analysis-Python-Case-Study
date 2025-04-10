@@ -1,4 +1,4 @@
-# 🧵 Python Case Study – Retail Business Analysis (CFI BIDA™)
+# 🧵 Python Case Study – Retail Business Analysis
 
 ## 📦 Business Context
 Behind the Scenes Clothing is a retail chain needing performance analysis across stores and product lines. The objective: clean and transform raw data to extract insights for better business decisions.
